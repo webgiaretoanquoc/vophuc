@@ -1,0 +1,547 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.showinfo {
+	position: absolute;
+	top: 0px;
+	width:100%;
+	height:100%;
+	z-index:22;
+	display:block;
+	background: #fff; 
+}
+.product-small:hover .showinfo{
+	display:block;
+	cursor:pointer;
+	opaticy: 0.5;
+}
+
+
+#wide-nav>.flex-row>.flex-left{min-width:270px}#mega-menu-title{padding:12px 0 13px 15px}#mega-menu-wrap{background:#c3001b}#mega_menu>li>a{padding-left:20px}#mega_menu li{border-top:0}.menu-item i._before,.rtl .menu-item i._after{margin-right:12px}.tieu-chi-section .icon-box {
+	background: white;
+	border-radius: 10px;
+	border: 1px solid #e8e8ea;
+	padding: 10px;
+}.product-category .box-image {
+	border-radius: 10px;
+}
+.product-category h5{    text-transform: none;
+	font-size: 17px;
+	padding: 0;}
+.product-category .count{display:none}.cam-nhan-khach-hang .icon-box {
+	background: white;
+	border-radius: 5px;
+	padding: 15px;
+	box-shadow: 3px 4px 10px #00000038;
+}
+.cam-nhan-khach-hang .flickity-page-dots{bottom:-40px}
+.cam-nhan-khach-hang .col{padding-bottom:0}
+.cam-nhan-khach-hang .icon-box .icon-box-img img {
+	padding-top: 0;
+	border-radius: 99%;
+	border: 2px solid #f6d165;
+}
+.doi-tac-section .col, .phan-hoi-section{padding-bottom:0}
+.product-small.box:hover{border:1px solid red}
+.flickity-prev-next-button svg {
+	background: #ed1c24;
+	border-radius: 99%;
+	color: white;
+}.product-small.box {border:1px solid white;
+	box-shadow: 2px 2px 10px #0000001c;
+	border-radius: 5px;
+}.product-small.box .box-text {
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;background:white;
+}.product-small.box .product-title {
+	height: 40px;
+	overflow: hidden;
+	color: black !important;
+	font-weight: 500;
+	font-size: 15.5px;
+}
+.san-pham-section .banner-row img{border-radius:6px}.san-pham-section .col.large-12{padding-bottom:0}
+.product-small.box .product-title a:hover{color:#ed1c24}
+.product-small.box .product-title a{color:#4e4e4e}
+.product-category .box-text{    padding: 9px; bottom:0; border-bottom-left-radius:10px; border-bottom-right-radius:10px}
+.section-title-center{margin-bottom:5px}
+.tieu-chi-section .icon-box .icon-box-text {
+	font-size: 15px;
+} .section-title-container {
+	margin-bottom: 0;
+}.tieu-chi-section .icon-box h3 {
+	margin-bottom: 5px;
+	color: #ed1c24;
+	font-size: 18px;
+} #mega_menu>li>a:hover{background-color:#ed1c24;color:#fff}.searchform-wrapper input[type=search]{height:40px;border: 1px solid #ed1c24;font-size:13.5px}.searchform-wrapper .searchform .button.icon{    height: 40px;
+	width: 65px;
+	border: 3px solid #ed1c24;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	background: #ed1c24;}.searchform-wrapper .search_categories{font-size:13.5px;height:40px;border: 1px solid #ed1c24; border-top-left-radius:3px;border-bottom-left-radius:3px;border-right:1px solid #eaeaea}b,strong{font-weight:500}.header-inner .icon-box-text{padding-left:5px!important}.header-inner .icon-box-img img{padding-top:16px}.top-bar-nav .menu-item i._before{margin-right:5px!important}.top-bar-nav li a{color:#fff!important}#mega_menu{border:0}.slider-section .cot2 .banner-row{margin-top:18px}#mega_menu li a{padding: 10px 15px;
+		font-weight: 500;
+		background-image: url(../../uploads/2019/07/dot.jpg);
+		background-repeat: no-repeat;
+		background-position-y: center;
+		background-position-x: 10px;
+		padding-left: 29px;}#mega_menu .khuyen-mai-nav a{color:#d7102c}.ban-chay-nhat-tuan .page-subheading{text-align:center;display:inline-block;margin:0 auto;width:100%;font-size:24px;padding:0 0 15px;border-bottom:1px solid #eaeaea;position:relative;color:#ed1c24;font-weight:500}.ban-chay-nhat-tuan .page-subheading:before{position:absolute;content:"";height:2px;background:#ed1c24;width:80px;bottom:0;right:0;margin:0 auto;left:0}.ban-chay-nhat-tuan .page-subheading img{display:inline-block}.ban-chay-nhat-tuan br{display:none}.slider-section .row .col{padding-bottom:0}.nav-dropdown{border:1px solid #fff;border-radius:3px;font-size:14px;padding:10px}.nav-dropdown-has-arrow li.has-dropdown:before{border-bottom-color:#fff}.product-small .add-to-cart-button a{border-radius:3px;font-weight:400;text-transform:none;font-size:13px;padding:0 12px;line-height:26px;min-height:20px} .section-title-normal {
+			background: #ed1c24;
+} .section-title a {
+	font-size: 14px;
+	margin-left: auto;
+	color: white;
+	margin-right: 10px;
+} .section-title-normal {
+	margin-bottom: 20px;
+	border-bottom: 0;
+	border-radius: 5px;
+}.section-title-normal span {margin-right: 15px;
+	padding-bottom: 0;
+	border-bottom: 0;
+	margin-bottom: 0;
+	font-size: 20px;
+	color: white !important;
+	padding: 10px;
+	background: #c3001b;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.product-small .box-image{border-top-left-radius:5px; border-top-right-radius:5px}
+.danh-muc-section .large-12{padding-bottom:0}
+.product-small .price span.amount{white-space:nowrap;color:#ed1c24;font-weight:500;font-size:17px}.product-small .price del span{font-size:12px!important;color:gray!important}.star-rating{font-size:11px}.star-rating:before{color:#ff5622}.ban-chay-nhat-tuan .badge-container{margin:10px!important}.badge{height:35px;width:35px}.badge-inner.on-sale{background-color:#ffba00;border-radius:99px;font-weight:400;font-size:12px}.product-small .box-text .product-title{margin-bottom:10px}.product-small .price{margin-top:10px}.thoi-trang-nam .category-title .left .img-responsive{margin-right:10px}.thoi-trang-nam .category-title .left{margin:0;padding-left:15px;font-size:18px;background:#e8b35f;color:#fff;height:43px;line-height:43px;text-transform:none;border-radius:5px 0 0;font-weight:500}.thoi-trang-nam .cot3 .widget_nav_menu ul li a span,.thoi-trang-nam .tabbed-content .nav li a{font-size:14px}.thoi-trang-nam .category-title .left img{display:inline-block;padding:0 10px 0 20px;margin-top:-5px}.category-title br{display:none}.banner-ngang .section-content .col{padding-bottom:0}#mega_menu li.has-child .sub-menu li.has-child{background:#fff;text-align:left;display:table-cell;white-space:nowrap;width:160px;min-width:160px}#mega_menu li.has-child .sub-menu li.has-child .sub-menu{display:block;margin:15px 0}#mega_menu li.has-child .sub-menu{background:0 0;border:0;box-shadow:0 0 0 gray;margin-top:0!important}#mega_menu li.has-child .sub-menu li{background:#fff;border-bottom:1px solid #f5f5f5}#mega_menu li.has-child .sub-menu li.has-child a{text-transform:uppercase;font-weight:500}#mega_menu li.has-child .sub-menu li.has-child ul li a{text-transform:none;padding:6px 15px;font-weight:400}#mega_menu li.has-child .sub-menu li.has-child ul li{border-bottom:none}.thoi-trang-nam .tieu-de .category-title h2 img{padding-right:10px}.thoi-trang-nam .tieu-de .tabbed-content .nav{height:43px;border-top:1px solid #e8b35f;background:#fff}.thoi-trang-nam .tabbed-content .nav{height:43px}.thoi-trang-nam .tabbed-content .nav li{margin-left:15px;margin-right:15px!important}.thoi-trang-nam .tabbed-content .nav li.active a{color:#e8b35f}.thoi-trang-nam .tabbed-content .nav li.active a:before{background-color:#e8b35f}.thoi-trang-nam .cot3 .widget_nav_menu{margin-left:0}.thoi-trang-nam .cot3 .widget_nav_menu ul li{width:50%;float:left;text-align:center;border:0;margin-top:15px;margin-bottom:15px}.thoi-trang-nam .cot3 .widget_nav_menu ul li a img{display:block;text-align:center;margin:0 auto}.thoi-trang-nam .cot3 .widget_nav_menu ul{background:#fff;margin-top:17px;margin-bottom:15px;border:1px solid #f7f7f7;display:inline-block}.thoi-trang-nam .category-title .left2,.thoi-trang-nam .category-title .left3{line-height:43px;border-radius:5px 0 0;font-weight:500;height:43px;text-transform:none}.thoi-trang-nam .cot3{flex-basis:21%;max-width:100%}.thoi-trang-nam .sub-menu,.thoi-trang-nam .sub-menu2{flex-basis:79%;max-width:100%}.thoi-trang-nam .product-small .add-to-cart-button{margin-top:-150px;position:absolute;display:none}.thoi-trang-nam .product-small .variations_form{display:none!important}.thoi-trang-nam .product-small:hover .add-to-cart-button{display:block;z-index:9999}.thoi-trang-nam .badge-container{margin:10px}.ban-chay-nhat-tuan .row .large-12{padding-bottom:0}.thoi-trang-nam .category-title .left2{margin:0;padding-left:15px;font-size:18px;background:#fc516d;color:#fff}.thoi-trang-nam .category-title .left2 img{display:inline-block;padding:0 10px 0 20px;margin-top:-5px}.thoi-trang-nam .category-title a{color:#fff}.thoi-trang-nam .tieu-de .sub-menu2 .tabbed-content .nav{height:43px;border-top:1px solid #fc516d;background:#fff}.thoi-trang-nam .sub-menu2 .tabbed-content .nav li.active a:before{background-color:#fc516d}.thoi-trang-nam .sub-menu2 .tabbed-content .nav li.active a{color:#fc516d}.thoi-trang-nam .category-title .left3{margin:0;padding-left:15px;font-size:18px;background:#42b315;color:#fff}.thoi-trang-nam .category-title .left3 img{display:inline-block;padding:0 10px 0 20px;margin-top:-5px}.ban-chay-nhat-tuan .post-item .box-text,.footer-section .col,.footer-section .gioi-thieu,.tin-khuyen-mai .col{padding-bottom:0}.thoi-trang-nam .sub-menu3{flex-basis:79%;max-width:100%}.thoi-trang-nam .tieu-de .sub-menu3 .tabbed-content .nav{height:43px;border-top:1px solid #42b315;background:#fff}.thoi-trang-nam .sub-menu3 .tabbed-content .nav li.active a{color:#42b315}.thoi-trang-nam .sub-menu3 .tabbed-content .nav li.active a:before{background-color:#42b315}.co-the-ban-thich .add-to-cart-button,.co-the-ban-thich .product-small .variations_form,.co-the-ban-thich .star-rating{display:none!important}.box-blog-post .is-divider{display:none}.button span{font-weight:400}.tin-khuyen-mai .cot1 img{margin-top:-30px}.tin-khuyen-mai .cot1 .img .img-inner{overflow:initial}.tin-khuyen-mai .cot2 .wpcf7 form input[type=email]{background-color:#fff;border-radius:3px}.tin-khuyen-mai .cot2 input[type=submit]:not(.is-form){border-radius:3px;background:#ffc800;font-weight:400;text-transform:none}.footer-section .gioi-thieu ul li{list-style:none;margin-left:0!important}.archive .variations_form{display:none!important}.archive .large-3{flex-basis:22%;max-width:100%}.archive .large-9{flex-basis:78%;max-width:100%}.archive #main{background:#f4f4f4}
+.archive .large-9 {
+	padding-left: 20px;
+	flex-basis: 78%;
+	max-width: 100%;
+} .blog-archive .large-3 {
+	padding-left: 0;
+} .archive .large-3 {
+	flex-basis: 22%;
+	padding-right: 0;
+	max-width: 100%;
+} .blog-archive .post-item .box-image .image-cover {
+	border-radius: 5px;
+}.blog-archive .meta-post-danhmuc {
+	display: none;
+}span.widget-title {
+	display: block;
+	margin-bottom: 10px;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 19px;
+	font-weight: 500;
+	color: red;
+}.meta-related ul {
+	margin-bottom: 0;
+}.meta-related ul li {
+	color: #0092ff;
+	list-style: square;
+	font-size: 15px;
+	margin-bottom: 0px;
+}.meta-related ul li a {
+	color: #0092ff;
+	text-transform: none;
+}.blog-single .entry-meta {
+	font-size: 14px;
+}.blog-single .entry-meta .danh-muc {
+	margin-bottom: 10px;
+}.blog-single .entry-meta .the-tim-kiem a {
+	background: #c3c3c3;
+	padding: 5px;
+	border-radius: 3px;
+	color: #fff;
+} .blog-single .entry-meta .the-tim-kiem a:hover {
+	background: #ed1c24;
+}.bai-viet-lien-quan {
+	margin-top: 20px;
+} .blog-single h2 {
+	font-weight: 500;
+	font-size: 21px;
+	color: #ed1c24;
+}.bai-viet-lien-quan ul {
+	margin-bottom: 0;
+	display: inline-block;
+	width: 100%;
+} .bai-viet-lien-quan ul li {
+	list-style: none;
+	width: 33.33%;
+	float: left;
+	padding-left: 4px;
+	padding-right: 5px;
+}.bai-viet-lien-quan ul li .box-image img {
+	height: 180px;
+	border-radius: 6px;
+	object-fit: cover;
+	object-position: center;
+}.bai-viet-lien-quan ul li h3 {
+	height: 45px;
+	overflow: hidden;
+	font-size: 16px;
+	font-weight: 500;
+	color: #3c3a3a;
+	margin-top: 7px;
+	line-height: 20px;
+} .thong-tin-tac-gia {
+	background: #FFFDE7;
+	padding: 15px;
+	border-radius: 5px;
+	display: inline-block;
+	width: 100%;
+	clear: both;
+	border: 1px dashed #FF9800;
+}.thong-tin-tac-gia .left {
+	width: 10%;
+	float: left;
+	display: inline-block;
+}.thong-tin-tac-gia .right {
+	padding-left: 10px;
+	width: 90%;
+	float: right;
+	display: inline-block;
+	text-align: left;
+}.thong-tin-tac-gia h4 {
+	margin-bottom: 4px;
+	font-size: 20px;
+	font-weight: 400;
+	color: #ed1c24;
+} .bai-viet-lien-quan ul li h3:hover{color:red} .thong-tin-tac-gia .right p {
+	font-size: 14px !important;margin-bottom: 0;
+}.meta-related ul li a:hover {
+	text-decoration: underline;
+	color: #0072c8;
+} .meta-related{    border-radius: 5px;
+	background: #E1F5FE;
+	padding: 10px;
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.meta-related ul li {
+	list-style: square;
+	font-size: 15px;
+	margin-bottom:0px;
+}
+
+.meta-related ul li a{
+	color: #0092ff;
+	text-transform: none; }
+
+.meta-related ul li a:hover{
+	color: #0072c8;
+} .blog-archive .post-item{padding-bottom:10px}.blog-archive .post-item .box-text .post-title:hover {
+	color: #ed1c24;
+} .blog-archive .post-item .box-text .post-title {
+	font-size: 19px !important;
+	color: #3e3d3d;
+} .blog-archive .large-9 .badge {
+	display: none;
+} .widget .is-divider{display:none}#product-sidebar span.widget-title,#shop-sidebar span.widget-title{font-weight:500;text-transform:none;letter-spacing:0;font-size:18px;display:block;margin-bottom:15px}#product-sidebar .product-categories li a{padding:8px 0;font-size:15px}.widget ul li.recent-blog-posts-li a {
+	padding: 0 !important;
+} #wrapper .quantity .minus, #wrapper .quantity .plus{border-radius: 5px;} .widget ul li.recent-blog-posts-li {
+	padding: 0 10px;
+}label {font-size:15px !important;
+
+	font-weight: 500;
+}.nut-thanh-toan-ngay{border-radius:5px} .button {
+	margin-bottom: 0;
+}.product-summary .quantity {
+	margin-bottom: 0;margin: 0;
+} .woocommerce-variation-price {
+	border-top: 0;
+	padding: 0;
+} .alg-wc-civs-term{margin: 0 8px 0 0;} .alg-wc-civs-term:not(.disabled).active {
+	border-color: #d7102c;
+	box-shadow: none;
+} .button.alt:not(.is-outline){border-radius: 5px;
+	font-weight: normal;
+	text-transform: none;
+	letter-spacing: 0; margin-bottom:0} .nut-chat-facebook {margin-bottom:0 !important;
+		border-radius: 5px !important;
+		background: #125c9e !important;
+}table{margin-bottom:0} .nut-hotline {margin-bottom:0 !important;
+	border-radius: 5px !important;
+	background: #6cb715 !important;
+} .row-button .col {
+	padding-bottom: 0;
+} form.cart, .woocommerce-variation-add-to-cart {
+	display: inline-block;
+	width: 100%;
+	clear: both;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}.cam-ket .tieu-de {
+	background: white;
+	padding: 6px 20px;
+	margin-top: -32px;
+	font-size: 17px;
+	font-weight: 500;
+	color: #d7102c;
+	display: block;
+	max-width: 207px;
+} .cam-ket ul {
+	margin-bottom: 4px;
+}.cam-ket ul li {
+	margin-bottom: 0;
+} .cam-ket {
+	margin-bottom: 5px;
+	margin-top: 25px;
+	background: white;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #ececec;
+	font-size: 15px;
+} .widget ul li a:hover {
+	color: #ed1c24;
+}  .lien-he-section form, .recent-blog-posts a {
+	font-size: 14px;
+}table.variations tr:last-child .alg-wc-civs-attribute {
+	margin-bottom: 0;
+}.variations td{padding:0}  .widget .current-cat>a{font-weight:500;color:orange}.woof_list_checkbox li div{margin-top:0}.woof_list label{font-size:14px;padding-top:8px;padding-bottom:0;font-weight:400}.woof_list li{padding:0!important}.woof_container_inner_kchthc ul li{width:50%;float:left;margin:0!important}.widget ul{display:inline-block;     background: white;
+	border: 1px solid #ececec;
+	border-radius: 4px;
+	font-size: 15px;}.shop-page-title .page-title-inner{font-size:14px;padding-top:13px;padding-bottom:12px}.woocommerce-breadcrumb{text-transform:none;color:#ff5622;font-weight:500;letter-spacing:0;padding:0}.badge-container{margin:10px}.breadcrumbs a,.shop-container .product-main .breadcrumbs a{color:#ff5622}.shop-container .product-main .product-title{font-size:22px;font-weight:400}.shop-container .product-main .price-wrapper del span{font-size:15px;color:gray}.shop-container .icon-expand:before,.shop-container .product-main .product-short-description{font-size:14px}.shop-container .product-main .price-wrapper ins span,.shop-container .product-main .price-wrapper span{font-weight:500;color:#ff5622}.shop-container .product-main .image-tools .button.is-outline{border:0}.product-short-description p{margin-bottom:7px}.shop-container .product-main .product-short-description a{color:red!important;margin-bottom:10px;display:inline-block}.shop-container .product-main .ma-sp{color:#ff5622}.shop-container .product-main .product_meta .posted_in,.shop-container .product-main .product_meta .sku_wrapper{display:none}.shop-container .product-main .product_meta .tagged_as a{font-size:14px;color:#ff5622}.shop-container .product-info .single_add_to_cart_button{font-weight:400;text-transform:none;background:#ff5622;font-size:15.5px;letter-spacing:0}
+.header-block-block-1 .icon-box{margin-top:12px}
+.header-block-block-1 .searchform-wrapper{margin-top:19px}
+.header-block-block-1 .medium-2{flex-basis:20.83335%; max-width:20.833335%}
+.shop-container .large-9{padding-right:0;padding-bottom:0}.shop-container .product-info .goi-ngay{font-size:15px;color:#d7102c;font-weight:500}.shop-container{background:#eff0f3}.shop-container .content-row{background:#fff;margin-top:30px;margin-bottom:30px}.shop-container .product-main{padding-top:10px}.shop-container #product-sidebar{padding-top:20px;border-left:0}.shop-container .product-footer .product-tabs li{margin:0 15px}.blog-archive .post-item .box-text .post-title,.blog-single .entry-meta .danh-muc{margin-bottom:10px}.shop-container .product-footer .product-tabs li a{font-size:16px;font-weight:500}.product-footer .tabbed-content .tab-panels{font-size:14.5px;color:#505050}.product-footer .product-section-title{text-transform:none;letter-spacing:0;color:#ff5622}.shop-container .related .add-to-cart-button,.shop-container .related .star-rating,.shop-container .variations_form{display:block!important}.product_list_widget li a{font-size:14px}.blog-single .large-3 {
+	padding-left: 0;
+} .page-right-sidebar .large-9{border-right:none}.page-right-sidebar .large-3{padding-left:0}.product_list_widget del span{color:gray!important;font-weight:400;font-size:12px!important}.product_list_widget ins span,.product_list_widget span.amount{font-weight:500;color:#ed1c24;font-size:16px}#breadcrumbs{font-size:14px}#breadcrumbs .breadcrumb_last{color:#ff5622}.blog-single .article-inner .entry-title{font-weight:400;font-size:24px}.blog-single .article-inner .fa:before{color:red}.blog-single .article-inner .fa{padding-right:10px}.article-inner .header-meta-info a{padding-right:15px}.article-inner .header-meta-info{font-size:14px;color:gray}.article-inner .entry-content{font-size:15px;padding-top:0}.blog-single .entry-meta{font-size:14px}.blog-single .entry-meta .the-tim-kiem a{background:#c3c3c3;padding:5px;border-radius:3px;color:#fff}.blog-single .entry-meta .the-tim-kiem a:hover{background:#ff5622}span.widget-title{font-weight:500;text-transform:none;letter-spacing:0;font-size:17px}.lien-he-section form,.recent-blog-posts a{font-size:14px}.blog-archive .post-item a:hover{color:#000}.meta-post-danhmuc{display:block;margin-top:7px;margin-bottom:5px;color:gray;font-size:13px}.meta-post-danhmuc .fa:before{padding-right:5px}.meta-post-danhmuc .danh-muc-post{padding-right:15px}.page-wrapper .page-inner{font-size:15px}a.back-to-top{border:0;background-color:#ffba00!important;color:#fff!important}
+.woocommerce .woocommerce-info .message-container a{color: #ff5622}
+form.checkout h3 {
+	font-weight: 500;
+	text-transform: none;
+}
+.woocommerce-billing-fields__field-wrapper{font-size:15px}
+.fl-labels .form-row input:not([type="checkbox"]), .fl-labels .form-row textarea, .fl-labels .form-row select{height:35px;}
+.fl-labels .fl-wrap label[for]:first-child{    font-size: 15px; padding-top:3px}
+.form-row .fl-is-active select{padding-top:25px}
+.devvn-popup-title{background: #fd6e1d;
+	background: -moz-linear-gradient(top,#c69a39 0%,#c19a4b 100%);
+	background: -webkit-linear-gradient(top,#fd6e1d 0%,#ff5622 100%);
+	background: linear-gradient(to bottom,#fd6e1d 0%,#ff5622 100%);}
+.popup-customer-info-group .devvn-order-btn{    background: #fe5d21;}
+.product-main .cart{margin-bottom:15px}
+.fl-labels .fl-wrap label[for]:first-child{top: -23px;left: 0;font-weight: 500;
+	color: #ff5622;}
+.button, button, input, textarea, select, fieldset{margin-bottom:25px}
+.woocommerce-billing-fields h3{margin-bottom:27px}
+.cart_totals .button{font-weight: normal;
+	border-radius: 3px;}
+.button.is-outline, button[type="submit"]{border-radius:3px; font-weight:normal}
+.shop_table thead th{font-weight: 500;}
+.thong-tin-shop{    width: 100%;
+	display: inline-block;
+	background: #fffbf4;
+	padding: 10px;
+	border: 1px dashed #f8830c;
+	border-radius: 4px;
+	margin-bottom: 10px;}
+.thong-tin-shop .left{    display: inline-block;
+	width: 20%;
+	float: left;}
+.thong-tin-shop .right{    display: inline-block;
+	width: 80%;
+	float: left; padding-left:10px}
+.thong-tin-shop .left img{width: 100%;
+	border-radius: 99%;
+	border: 2px solid white;
+}
+a.devvn_buy_now_style{    margin: 0 0 0px;}
+.thong-tin-shop .mo-ta-shop{    margin-bottom: 0;
+	font-size: 12px;
+	color: #464646;margin-bottom: 5px;}
+.thong-tin-shop h3{margin-bottom:0px}
+.thong-tin-shop button.so-hotline a{color:#6bb722 !important}
+.thong-tin-shop button.so-hotline{color:#76ce21 !important;border: 1px solid #76ce21;}.product-main {
+	padding: 0;
+}
+.single-product .large-9{border-right:none !important}
+.thong-tin-shop button:hover{box-shadow: 2px 2px 3px #00000024}
+.thong-tin-shop button.so-hotline{background-image: url(../../uploads/2019/06/phone-icon.png);
+	background-repeat: no-repeat;
+	background-size: 18px;
+	background-position-x: 10px;
+	background-position-y: 3px;
+	padding-left: 33px;}
+.thong-tin-shop button.chat-facebook{background-image: url(../../uploads/2019/06/chat-icon.png);
+	background-repeat: no-repeat;
+	background-size: 18px;
+	background-position-x: 10px;
+	background-position-y: 3px;
+	padding-left: 33px;}
+.thong-tin-shop button.chat-facebook a{color:#2abf9b}
+.thong-tin-shop .des{    margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 500;}
+.thong-tin-shop button{margin: 0;
+	background: white;
+	border: 1px solid #2abf9b;
+	border-radius: 3px;
+	font-size: 14px;
+	text-transform: none;
+	font-weight: normal;
+	letter-spacing: 0;
+	padding: 0 15px;
+	color: #2abf9b;
+	min-height: 27px; line-height:10px}.form-lien-he {
+		background: #650000b5;
+		border-radius: 5px;
+		padding: 20px;
+		width: 100%;
+		display: inline-block;
+		clear: both;
+}.form-lien-he .cot1 {
+	width: 25%;
+	float: left;
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+}.form-lien-he .cot2 {
+	padding-top: 14px;
+	display: inline-block;
+	width: 15%;
+	float: left;
+	font-size: 15px;
+	color: white;
+	text-transform: uppercase;
+}.form-lien-he .cot3 {
+	padding-top: 17px;
+	padding-left: 10px;
+	width: 30%;
+	float: left;
+	display: inline-block;
+}.form-lien-he .cot4 {
+	padding-top: 17px;
+	width: 15%;
+	float: left;
+	display: inline-block;
+	padding-left: 10px;
+}form {
+	margin-bottom: 0;
+}.nhan-tin-section .large-12 {
+	padding-bottom: 0;
+}.giftcode {
+	background: url(../../uploads/2019/07/gift-icon.png);
+	background-repeat: no-repeat;
+	background-size: 41px;
+	padding-left: 50px !important;
+}.form-lien-he select, .form-lien-he input[type='email'] {
+	margin-bottom: 0;
+	border-radius: 4px;
+	box-shadow: none;
+}.form-lien-he input[type='submit'] {
+	background-color: #ed1c24;
+	text-transform: none;
+	font-weight: normal;
+	border-radius: 4px;
+}.footer-secondary {
+	padding: 0;
+}.widget ul {
+	display: block;
+}.widget ul.product-categories li {
+	padding: 0 10px;
+	background: url(../../uploads/2019/07/dot.jpg);
+	background-repeat: no-repeat;
+	background-position-y: 14px;
+	background-position-x: 5px;
+	padding-left: 20px;
+} .widget ul li a {
+	padding: 9px 0;
+	font-weight: 500;
+	color: #484848;
+} .widget .current-cat>a {
+	font-weight: 500;
+	color: red;
+} .absolute-footer{font-size:13px} .form-lien-he .cot1 h3{color:white}  .form-lien-he .cot5 {
+	padding-top: 17px;
+	width: 15%;
+	float: left;
+	padding-left: 10px;
+}
+.list-post .post-item a:hover{color:black}
+.list-post .post-item{padding-bottom:0}
+.list-post .post-item .post-title:hover{color:#ed1c24}
+.list-post .post-item .post-title{    margin-bottom: 7px;
+}
+.home #mega_menu{display:block}
+.slider-section .cot2{padding-left:0} .list-post .post-item .meta-post-danhmuc{display:none} .list-post .post-item .box-image {
+	border-radius: 6px;
+}.archive .large-9 {
+	padding-left: 20px;
+	flex-basis: 78%;
+	max-width: 100%;
+}.archive .large-3 {
+	flex-basis: 22%;
+	padding-right: 0;
+	max-width: 100%;
+}
+.woof_list_checkbox ul{display:block !important}
+.woof_container_inner_kchthc ul li{width:100%;     padding-left: 10px !important;}.shop-container #product-sidebar {
+	padding-top: 20px;
+	border-left: 0;
+}.shop-container .large-9 {
+	border-right: none !important;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.woof_list li {
+	margin: 0 9px 0 10px !important;
+}span.widget-title, .woof_container_inner h4 {font-size:16px;
+	color:black;}
+.woof_block_html_items ul{display:inline-block; width: 100%; 
+}#header.header #mega_menu.active{border: 1px solid #c3001b;
+	border-top: none;}
+.product-small .box-image:hover::before{
+	-webkit-animation:shine .75s;animation:shine .75s
+}
+@-webkit-keyframes shine{
+	100%{left:125%}
+}
+@keyframes shine{
+	100%{left:125%}
+}
+.product-small .box-image::before{
+	position:absolute;
+	top:0;
+	left:-75%;
+	z-index:2;
+	display:block;
+	content:'';
+	width:50%;
+	height:100%;
+	background:-webkit-linear-gradient(left,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+	background:linear-gradient(to right,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+	-webkit-transform:skewX(-25deg);transform:skewX(-25deg)
+}
+.doi-tac-section .flickity-prev-next-button{top:27%}
+@media only screen and (max-width: 48em) {
+
+	.thoi-trang-nam .cot3, .thoi-trang-nam .sub-menu, .thoi-trang-nam .sub-menu2, .thoi-trang-nam .sub-menu3, .archive .large-9{flex-basis:100%; max-width:100%}
+	.thoi-trang-nam .cot3 .widget_nav_menu ul{width:100%}
+	.co-the-ban-thich .noi-dung:before{right:7px}
+	.off-canvas-left.mfp-ready .mfp-conten{background:white}.nav-small.nav>li.html{text-align:center}.list-post .post-item .from_the_blog_excerpt {display:none}.list-post .post-item .post-title {
+		margin-bottom: 15px;
+	}
+	.form-lien-he .cot1, .form-lien-he .cot2, .form-lien-he .cot3, .form-lien-he .cot4, .form-lien-he .cot5{width: 100%; padding-left:0; padding-right:0}
+	.ban-chay-nhat-tuan .post-item, .footer-section .gioi-thieu{flex-basis:50%; max-width:50%}
+	.ban-chay-nhat-tuan .post-item .meta-post-danhmuc{display:none}
+	.shop-container .large-9{    padding-right: 15px;}.archive .large-9{padding-left:15px;}
+	.single_variation_wrap a.button.alt:not(.is-outline){width:100%}
+	.archive .product-small.col{padding:0 5px 10px}
+	.thoi-trang-nam .cot3 .img{display:none}
+	.shop-container .product-info .single_add_to_cart_button{margin-bottom:10px}
+	.blog-archive .post-item:nth-child(2n+2){padding-left:7px}
+	.blog-archive .post-item .from_the_blog_excerpt {display:none}.blog-archive .post-item .box-text .post-title{font-size:15px !important;}.bai-viet-lien-quan ul li{width:50%; }.blog-single .large-3{padding-left:15px;} .bai-viet-lien-quan ul li h3{height:auto; font-size:15px}
+	.bai-viet-lien-quan ul li .box-image img{height:90px}
+	.blog-archive .post-item:nth-child(2n+1){padding-right:7px;}
+	.blog-archive .post-item{flex-basis:50%; max-width:50%}.blog-archive .post-item .box-text{padding-bottom:0}.archive .large-3{flex-basis:100%;max-width:100%; padding:0 15px}
+	.header{    box-shadow: 2px 2px 10px #0000001a;}.blog-single .article-inner .entry-title{font-size:20px}
+}

@@ -1,0 +1,1504 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C500%2Cregular%2C500|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fbao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fcain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fnhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fao-thun-thoi-trang-karatedo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fao-thun-thoi-trang-taekwondo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fao-thun-thoi-trang-vovinam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fbang-thun-goi-cao-cap-dung-trong-tap-luyen%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fdai-do-den-theu-taekwondo-loai-dac-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fgang-tay-mma-wolon-xuong-soi-nhap-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fvo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fvo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fvo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fsan-pham%252Fvo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Fthoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fvophuc.webtudong8giay.com%252Ftong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://vophuc.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/bao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\bao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/bao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\bao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/cain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\cain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/cain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\cain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/chinh-sach-dai-ly/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\chinh-sach-dai-ly\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/aikido/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\aikido\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/aikido/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\aikido\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/dung-cu-bao-ho-thi-dau/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\dung-cu-bao-ho-thi-dau\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/dung-cu-bao-ho-thi-dau/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\dung-cu-bao-ho-thi-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/judo/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\judo\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/judo/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\judo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/karatedo/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\karatedo\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/karatedo/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\karatedo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/mma-muay-boxing/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\mma-muay-boxing\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/mma-muay-boxing/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\mma-muay-boxing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/taekwondo/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\taekwondo\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/taekwondo/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\taekwondo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vo-co-truyen/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vo-co-truyen\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vo-co-truyen/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vo-co-truyen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vo-phuc/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vo-phuc\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vo-phuc/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vo-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vovinam/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vovinam\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/danh-muc/vovinam/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\danh-muc\vovinam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m10/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m10\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m10/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m10\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m20/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m20\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m20/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m20\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m30/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m30\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m30/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m30\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m40/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m40\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m40/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m40\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m50/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m50\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m50/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m50\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m60/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m60\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m60/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m60\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m70-1m58-1m67/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m70-1m58-1m67\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m70-1m58-1m67/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m70-1m58-1m67\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m80-1m68-1m77/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m80-1m68-1m77\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m80-1m68-1m77/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m80-1m68-1m77\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m90-1m78-1m87/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m90-1m78-1m87\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/1m90-1m78-1m87/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\1m90-1m78-1m87\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/2m00-1m88-1m97/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\2m00-1m88-1m97\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/kich-thuoc/2m00-1m88-1m97/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\kich-thuoc\2m00-1m88-1m97\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/den/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\den\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/den/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\den\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/do/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\do\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/do/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/trang/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\trang\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/trang/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/xanh-bien/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\xanh-bien\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/mau-sac/xanh-bien/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\mau-sac\xanh-bien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/muc-gia/1-000-000d-2-000-000d/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\muc-gia\1-000-000d-2-000-000d\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/muc-gia/1-000-000d-2-000-000d/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\muc-gia\1-000-000d-2-000-000d\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/muc-gia/duoi-1-000-000d/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\muc-gia\duoi-1-000-000d\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/muc-gia/duoi-1-000-000d/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\muc-gia\duoi-1-000-000d\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/nhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\nhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/nhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\nhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-karatedo/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-karatedo\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-karatedo/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-karatedo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-taekwondo/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-taekwondo\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-taekwondo/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-taekwondo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-vovinam/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-vovinam\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/ao-thun-thoi-trang-vovinam/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\ao-thun-thoi-trang-vovinam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/bang-thun-goi-cao-cap-dung-trong-tap-luyen/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\bang-thun-goi-cao-cap-dung-trong-tap-luyen\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/bang-thun-goi-cao-cap-dung-trong-tap-luyen/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\bang-thun-goi-cao-cap-dung-trong-tap-luyen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/dai-do-den-theu-taekwondo-loai-dac-biet/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\dai-do-den-theu-taekwondo-loai-dac-biet\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/dai-do-den-theu-taekwondo-loai-dac-biet/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\dai-do-den-theu-taekwondo-loai-dac-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/gang-tay-mma-wolon-xuong-soi-nhap-khau/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\gang-tay-mma-wolon-xuong-soi-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/gang-tay-mma-wolon-xuong-soi-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\gang-tay-mma-wolon-xuong-soi-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/san-pham/vo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\san-pham\vo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tag/shop-san-pham/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\shop-san-pham\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/tag/shop-san-pham/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\shop-san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tag/thoi-trang-2018/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\thoi-trang-2018\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/tag/thoi-trang-2018/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\thoi-trang-2018\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tag/xu-huong/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\xu-huong\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/tag/xu-huong/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tag\xu-huong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/black-eagle/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\black-eagle\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/black-eagle/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\black-eagle\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/hayabusa/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\hayabusa\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/hayabusa/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\hayabusa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/starbalm/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\starbalm\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/starbalm/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\starbalm\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/tan-viet/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\tan-viet\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/tan-viet/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\tan-viet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/twins-special/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\twins-special\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/twins-special/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\twins-special\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/wolon/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\wolon\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/thuong-hieu/wolon/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\thuong-hieu\wolon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/tong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vophuc.webtudong8giay.com/tuyen-dung/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/color-or-image-variation-swatches-for-woocommerce/assets/dist/frontend/css/alg-wc-civs.min.css?ver=221010-110407
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\color-or-image-variation-swatches-for-woocommerce\assets\dist\frontend\css\alg-wc-civs.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/color-or-image-variation-swatches-for-woocommerce/assets/dist/frontend/js/alg-wc-civs.min.js?ver=221010-110407
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\color-or-image-variation-swatches-for-woocommerce\assets\dist\frontend\js\alg-wc-civs.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.bpopup.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\css\front.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/autoshow_button.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\autoshow_button.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/delete.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\delete.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/minus2.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\minus2.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/plus2.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\plus2.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\front.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\radio.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\select.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/icheck.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\icheck.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/orange.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\orange.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/orange.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\orange.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/orange@2x.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\orange@2x.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.concat.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\malihu-custom-scrollbar\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\malihu-custom-scrollbar\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\malihu-custom-scrollbar\jquery.mCustomScrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mousewheel.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\malihu-custom-scrollbar\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/mCSB_buttons.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\malihu-custom-scrollbar\mCSB_buttons.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/chat-icon.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\chat-icon.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/logo-1-300x62.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\logo-1-300x62.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/logo-1-510x106.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\logo-1-510x106.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/logo-1.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\logo-1.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/phone-icon.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\phone-icon.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/06/phoneicon.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\06\phoneicon.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/aikido.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\aikido.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/bang_thun_goi_2_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\bang_thun_goi_2_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/bang_thun_goi_2_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\bang_thun_goi_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/bg-contact-form.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\bg-contact-form.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/dot.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\dot.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/dung-cu-bao-ho.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\dung-cu-bao-ho.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/gift-icon.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\gift-icon.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/hotline-dat-hang.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\hotline-dat-hang.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/judo.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\judo.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/karatedo.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\karatedo.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/muay-thai.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\muay-thai.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/shop_images_footer.png
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\shop_images_footer.png
+Content Type: image/png
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/taek_vai_soc_be_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\taek_vai_soc_be_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/taek_vai_soc_be_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\taek_vai_soc_be_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/taek_vai_soc_be_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\taek_vai_soc_be_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/teakwondo.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\teakwondo.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_0fcfd5f4b1d342ffb0c5c0366b122916_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_0fcfd5f4b1d342ffb0c5c0366b122916_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_0fcfd5f4b1d342ffb0c5c0366b122916_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_0fcfd5f4b1d342ffb0c5c0366b122916_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_24df09ae0daf4282a7d4c41c1c08509e_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_24df09ae0daf4282a7d4c41c1c08509e_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_288519c92e93468ea2de38cf0ea8ffff_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_288519c92e93468ea2de38cf0ea8ffff_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_62d22ff39c2d4d3e816dd23bfeb97c94_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_62d22ff39c2d4d3e816dd23bfeb97c94_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_8726aaa921c24d0e82a1d79889a50d00_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_8726aaa921c24d0e82a1d79889a50d00_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_8726aaa921c24d0e82a1d79889a50d00_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_8726aaa921c24d0e82a1d79889a50d00_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_a2ea610eb66f40f7af776b07ee86f3af_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_a2ea610eb66f40f7af776b07ee86f3af_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_a2ea610eb66f40f7af776b07ee86f3af_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_a2ea610eb66f40f7af776b07ee86f3af_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_ac386e5202a247cf851c2009bdc26467_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_ac386e5202a247cf851c2009bdc26467_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_ceafa6e15ee942b681512ab0217aa9a2_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_ceafa6e15ee942b681512ab0217aa9a2_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_ceafa6e15ee942b681512ab0217aa9a2_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_ceafa6e15ee942b681512ab0217aa9a2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_e3c0c17b76514e0db767c82704f7c2a3_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_e3c0c17b76514e0db767c82704f7c2a3_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/upload_e3c0c17b76514e0db767c82704f7c2a3_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\upload_e3c0c17b76514e0db767c82704f7c2a3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vo-co-truyen.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vo-co-truyen.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vo-phuc.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vo-phuc.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vovinam.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vovinam.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vo_phuc_vct_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vo_phuc_vct_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vo_phuc_vct_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vo_phuc_vct_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vp_taek_co_do_den_vai_soc_be_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vp_taek_co_do_den_vai_soc_be_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vp_taek_co_do_den_vai_soc_be_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vp_taek_co_do_den_vai_soc_be_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vp_taek_co_tran_tvd_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vp_taek_co_tran_tvd_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-content/uploads/2019/07/vp_taek_co_tran_tvd_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-content\uploads\2019\07\vp_taek_co_tran_tvd_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://vophuc.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fbao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fbao-ve-nguoi-yeu-nha-vo-dich-do-vat-bi-6-ten-con-do-giet-chet%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fcain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fcain-velasquez-lan-dau-ra-mat-do-bat-bieu-dien-tai-triplemania-xxvii%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fchinh-sach-dai-ly%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fchinh-sach-dai-ly%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fnhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fnhung-vo-si-ufc-bi-sap-mat-nhieu-nhat-tren-long-sat%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-karatedo%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-karatedo%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-taekwondo%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-taekwondo%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-vovinam%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fao-thun-thoi-trang-vovinam%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fbang-thun-goi-cao-cap-dung-trong-tap-luyen%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fbang-thun-goi-cao-cap-dung-trong-tap-luyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fdai-do-den-theu-taekwondo-loai-dac-biet%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fdai-do-den-theu-taekwondo-loai-dac-biet%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fgang-tay-mma-wolon-xuong-soi-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fgang-tay-mma-wolon-xuong-soi-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-co-truyen-den-hieu-tan-viet-do-xuat-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-den-vai-soc-hieu-black-eagle-cao-cap%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-do-den-vai-soc-hieu-black-eagle-cao-cap%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fsan-pham%2Fvo-phuc-taekwondo-co-trang-hieu-tan-viet-do-xuat-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fthoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Fthoi-phong-kien-muon-lam-quan-vo-thi-phai-the-nao%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftong-dan-chu-nam-anh-kiet-dap-tra-cuc-gat-loi-thach-dau-cua-cuu-vo-dich-sea-games-tan-thu%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftuyen-dung%2F
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvophuc.webtudong8giay.com%2Ftuyen-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/90
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\90
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/92
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\92
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/96
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\96
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/pages/98
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\pages\98
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/posts/1382
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\posts\1382
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/posts/640
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\posts\640
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/posts/643
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\posts\643
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/posts/646
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\posts\646
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/posts/649
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\posts\649
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1275
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1275
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1285
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1285
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1298
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1298
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1300
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1300
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1305
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1305
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1307
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1307
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1336
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1336
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1338
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1338
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1343
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1343
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product/1345
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product\1345
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/100
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\100
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/101
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\101
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/102
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\102
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/103
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\103
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/104
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\104
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/105
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\105
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/106
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\106
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/product_cat/99
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\product_cat\99
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/tags/80
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\tags\80
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/tags/81
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\tags\81
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/tags/96
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\tags\96
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-json/wp/v2/users/4
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-json\wp\v2\users\4
+Content Type: application/json
+
+Uri: https://vophuc.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fvophuc.webtudong8giay.com%2Fwp-admin%2Fwidgets.php&reauth=1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://vophuc.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://vothuat.vn/app/uploads/2017/06/usa-today-7954079.0.jpg?x86441
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\app\uploads\2017\06\usa-today-7954079.0.jpg
+Content Type: image/jpeg
+
+Uri: https://vothuat.vn/app/uploads/2017/06/usa_today_8728884.0.jpg?x86441
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\app\uploads\2017\06\usa_today_8728884.0.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.1
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+
+Uri: https://www.vothuat.vn/app/uploads/2019/07/D-fKEpxUEAAfbeK.jpg?x86441
+File Name: C:\Downloaded Web Sites\vophuc.webtudong8giay.com\app\uploads\2019\07\D-fKEpxUEAAfbeK.jpg
+Content Type: image/jpeg
+
